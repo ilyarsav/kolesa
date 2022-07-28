@@ -1,0 +1,25 @@
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.list li {
+  padding: 0.2rem;
+  padding-left: 0.7rem;
+}
+
+.list li:hover {
+  cursor: default;
+}
+
+.choosen {
+  background-color: rgb(129, 152, 250);
+  color: white;
+}
+
+
+.change__choosen {
+  background-color: rgb(192, 192, 192);
+  color: black;
+}

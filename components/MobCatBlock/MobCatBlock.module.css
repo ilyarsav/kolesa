@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+}
+
+.item {
+  border: 1px solid rgb(201, 201, 201);
+  text-align: center;
+}
+
+.item span {
+  font-size: 14px;
+}
+
+.item img{
+  width: 30px;
+}

@@ -1,0 +1,30 @@
+
+.link {
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.link:hover {
+  color: red;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.choosen {
+  cursor: pointer;
+  color: black;
+  background-color: rgb(255, 213, 96);
+  border-radius: 2px;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+.choosen:hover {
+  color: black;
+}
+
+.button {
+  padding: 5px;
+  background-color: rgb(106, 139, 248);
+  width: 50%;
+}

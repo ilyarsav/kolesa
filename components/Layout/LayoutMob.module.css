@@ -1,0 +1,24 @@
+.navbar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+  border-top: 1px solid grey;
+  padding-top: 3px;
+}
+
+.col {
+  padding: 0;
+  text-align: center;
+}
+
+.col span {
+  font-size: 12px;
+}
+.col img {
+  width: 28px;
+}
+
+ 

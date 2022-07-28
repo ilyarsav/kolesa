@@ -1,0 +1,38 @@
+
+.selectbox {
+  width: 300px;
+  padding: 0;
+
+}
+
+.selectbox input {
+ width: 100%
+}
+
+.input__overflow {
+  background-color: #fff;
+  height: 250px;
+  width: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  border: 1px solid rgb(63, 63, 63);
+}
+
+.input__overflow__list {
+  list-style: none;
+  padding: 0;
+}
+
+.input__overflow__list li {
+  padding: 0.5rem;
+}
+
+.input__overflow__list li:hover {
+  cursor: pointer;
+  background-color: rgb(211, 211, 211);
+}
+
+.moto__choosen {
+  background-color: rgb(129, 152, 250);
+  color: #fff;
+}

@@ -1,0 +1,59 @@
+.selectbox {
+  width: 100%;
+  padding: 0;
+  position: relative;
+  cursor: pointer;
+}
+
+.selectbox .input {
+  width: 100%;
+  border: 1px solid grey;
+  border-radius: 2px;
+  padding: 2px;
+  color: black;
+}
+
+.default {
+  color: grey;
+}
+
+.input__overflow {
+  background-color: #fff;
+  border: 1px solid rgb(218, 218, 218);
+  max-height: 300px;
+  width: 100%;
+  overflow-x: hidden;
+  position: absolute;
+  z-index: 1;
+}
+
+.input__overflow__list {
+  list-style: none;
+  padding: 0;
+}
+
+.input__overflow__list li {
+  padding: 0.5rem;
+}
+
+.input__overflow__list li:hover {
+  cursor: pointer;
+  background-color: rgb(211, 211, 211);
+}
+
+.choosen {
+  background-color: rgb(106, 139, 248);
+  color: white;
+}
+
+.arrow {
+  position: absolute;
+  border: solid black;
+  border-width: 0 1px 1px 0;
+  display: inline-block;
+  padding: 4px;
+  right: 10px;
+  top: 7px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}

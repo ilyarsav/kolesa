@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": 1,
+    "name": "КамАз"
+  },
+  {
+    "id": 2,
+    "name": "Almatruck"
+  },  
+  {
+    "id": 3,
+    "name": "Avia"
+  },
+  {
+    "id": 4,
+    "name": "BAW"
+  },
+  {
+    "id": 5,
+    "name": "BMC"
+  },
+  {
+    "id": 6,
+    "name": "CAMC"
+  },  
+  {
+    "id": 7,
+    "name": "Changan"
+  },
+  {
+    "id": 8,
+    "name": "Chevrolet"
+  },
+  {
+    "id": 9,
+    "name": "Citroen"
+  },
+  {
+    "id": 10,
+    "name": "Daewoo"
+  },
+  {
+    "id": 11,
+    "name": "DAF"
+  },  
+  {
+    "id": 12,
+    "name": "DeSoto"
+  },
+  {
+    "id": 13,
+    "name": "Dfac"
+  },  
+  {
+    "id": 14,
+    "name": "Dongfeng"
+  },
+  {
+    "id": 15,
+    "name": "FAW"
+  },
+  {
+    "id": 16,
+    "name": "Ford"
+  }
+]

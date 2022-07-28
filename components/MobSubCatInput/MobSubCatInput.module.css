@@ -1,0 +1,11 @@
+.label {
+  color: grey;
+  padding-bottom: 5px;
+}
+
+.input{
+  border: 1px solid rgb(197, 197, 197);;
+  width: 100%;
+  padding: 10px;
+
+}

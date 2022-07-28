@@ -1,0 +1,20 @@
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #2a81dd;
+  color: #fff;
+}
+
+.header__cut {
+  padding: 10px 15px;
+}
+
+.header__filter {
+  padding: 10px 15px;
+}
+
+
+.content {
+  background-color: #f1f1f1;
+}

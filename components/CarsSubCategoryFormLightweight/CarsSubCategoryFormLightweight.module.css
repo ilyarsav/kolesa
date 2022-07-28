@@ -1,0 +1,59 @@
+
+.subcat__block {
+  background-color: #fff8e6;
+}
+
+.radio {
+	border-radius: 3px;
+}
+
+.radio input {
+	width: auto;
+	height: 100%;
+	appearance: none;
+	cursor: pointer;
+	border-radius: 2px;
+	background: white;
+	color: black;
+	font-size: 14px;
+  padding: 8px 25px;
+  border: 1px solid rgb(230, 230, 230);
+}
+
+.radio input:checked {
+  background-color: #ffd313;
+	color: black;
+}
+
+.radio input:before {
+	content: attr(label);
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+
+.link {
+  cursor: pointer;
+}
+
+.link:hover {
+  color: red;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.choosen {
+  cursor: pointer;
+  color: black;
+  background-color: rgb(255, 213, 96);
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+.choosen:hover {
+  color: black;
+}
+
+.white {
+  background-color: #fff;
+}
